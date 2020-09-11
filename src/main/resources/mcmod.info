@@ -1,0 +1,9 @@
+[
+  {
+    "modid": "fastitems",
+    "name": "Fast Items",
+    "description": "Rotates dropped items to face you.",
+    "version": "${version}",
+    "mcversion": "${mcversion}"
+  }
+]

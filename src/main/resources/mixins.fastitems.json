@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "dev.luaq.animations.mixins",
+  "refmap": "mixins.fastitems.refmap.json",
+  "compatibilityLevel": "JAVA_8",
+  "target": "@env(DEFAULT)",
+  "minVersion": "0.7.2",
+  "mixins": [
+    "MixinEntityItem",
+    "MixinScoreboard"
+  ]
+}
